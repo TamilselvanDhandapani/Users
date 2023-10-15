@@ -1,0 +1,15 @@
+
+.home {
+  background-color: rgb(204, 160, 246);
+ color: white;
+  padding: 15px;
+  margin: 25px 20px;
+}
+.home h2{
+  font-variant: small-caps;
+}
+.home ul li{
+  padding: 10px;
+  font-variant: small-caps;
+ 
+font-size: 20px;}
